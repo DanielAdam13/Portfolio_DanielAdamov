@@ -1,22 +1,22 @@
 {
-  "name": "John Doe",
-  "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
+  "name": "Daniel Adamov",
+  "photoUrl": "me.ico",
+  "intro": "A student in Howest DAE Game Development. I enjoy being thrown hard tech-related problems while still needing to satuate my thirst for creativity/game design. I love building the architecture behind a project as much as I enjoy the creative art of making games.",
   "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
+  "webpageTitle": "Portofolio_Daniel Adamov",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/DanielAdam13",
       "icon": "mdi:github",
       "showInContact": true
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "#",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
@@ -34,15 +34,27 @@
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:daniel.adamov052@gmail.com",
+      "icon": "mdi:email",
+      "showInContact": true
+    }, 
+    {
+      "name": "Itch.io",
+      "url": "https://dannyboi05.itch.io/",
       "icon": "mdi:email",
       "showInContact": true
     },
     {
-      "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
-      "icon": "mdi:whatsapp",
+      "name": "Sketchfab",
+      "url": "https://sketchfab.com/DanielAdamov",
+      "icon": "mdi:email",
       "showInContact": true
+    }, 
+    {
+      "name": "Whatsapp",
+      "url": "https://wa.me/0 87 899 2190",
+      "icon": "mdi:whatsapp",
+      "showInContact": false
     },
     {
       "name": "Facebook",
@@ -58,7 +70,7 @@
     },
     {
       "name": "Instagram",
-      "url": "#",
+      "url": "https://www.instagram.com/daniel.adamov.05/",
       "icon": "mdi:instagram",
       "showInContact": false
     },
