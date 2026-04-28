@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Game Jam Entry",
+    "description": "A 48-hour game jam project exploring procedural level generation.",
+    "images": ["astro-01.webp"],
+    "tech": ["Unity", "C#"],
+    "platforms": ["web"],
+    "link": "https://yourname.itch.io/game-jam-entry",
+    "category": "Game Jam"
+  }
+]
