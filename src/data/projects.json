@@ -1,20 +1,38 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
+    "title": "Game Engine",
+    "description": "A fully self-made, general purpose 2D Game Engine AND a game made on it. Exploring best practice C++ programming style and Patterns. ",
     "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
-    "platforms": ["web"],
+    "tech": ["C++", "SDL", "CMake" ],
+    "platforms": ["windows", "web"],
     "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "category": "Self-made Game Engine"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
+    "title": "Vulkan Renderer",
+    "description": "A Vulkan Rendering project started from scratch. Focuses on lowest level Vulkan API functionality such as synchronization or command recording.",
     "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
+    "tech": ["Vulkan API", "C++", "GLTF parsing", "CMake"],
+    "platforms": ["windows"],
     "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "category": "Learning the Vulkan API"
+  },
+  {
+    "title": "Group Project Game - The Last Conduit",
+    "description": "A project made in a group of 6 people. Strictest team-working environment I've worked in. Communication and problem solving were essential.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["C++", "Unreal Engine", "Perforce(P4)", "HackNPlan"],
+    "platforms": ["windows"],
+    "link": "https://dannyboi05.itch.io/gp16thelastconduit",
+    "category": "Group Project"
+  },
+  {
+    "title": "Cuphead Recreation",
+    "description": "Constructing the architecture of a game with a LOT of sprites, animations, enemies and sounds as well as getting used to a new environment.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["C++", "GLTF parsing", "CMake"],
+    "platforms": ["windows"],
+    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "category": "Game Recreation on a custom engine"
   }
 ]
