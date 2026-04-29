@@ -1,11 +1,56 @@
 [
   {
-    "title": "Game Jam Entry",
-    "description": "A 48-hour game jam project exploring procedural level generation.",
-    "images": ["astro-01.webp"],
+    "title": "Company Group Project - The Perfect Shift",
+    "description": "A group project created SPECIFICALLY for a company in a team of 10 people. ",
+    "images": ["Lifting2.png"],
     "tech": ["Unity", "C#"],
-    "platforms": ["web"],
-    "link": "https://yourname.itch.io/game-jam-entry",
+    "platforms": ["web", "windows"],
+    "link": "https://dannyboi05.itch.io/the-perfect-shift",
+    "category": "Company Project"
+  },
+  {
+    "title": "Solo Game Project - The Shelter",
+    "description": "Small atmospheric horror game made in the span of 1 month. Exploring the Unity Engine.",
+    "images": ["Shelter2.png"],
+    "tech": ["Unity", "C#"],
+    "platforms": ["windows", "linux"],
+    "link": "https://dannyboi05.itch.io/the-shelter",
     "category": "Game Jam"
+  },
+  {
+    "title": "First C++ Game - Roguelike",
+    "description": "My first real try in a custom C++ environment. Created for an assignment in the first year of Bachelor Studies in DAE - Game Development.",
+    "images": ["Roguelike1.png"],
+    "tech": ["C++", "Custom Engine", "SDL"],
+    "platforms": ["windows"],
+    "link": "https://dannyboi05.itch.io/the-shelter",
+    "category": "University Project"
+  },
+  {
+    "title": "Game AI Systems",
+    "description": "A project focused on implementing complex AI Systems in Unreal Engine 5. Including Flocking, Steering behaviors, Pathfinding.",
+    "images": ["astro-01.webp"],
+    "tech": ["Unreal Engine", "C++", "Research"],
+    "platforms": ["windows"],
+    "link": "https://dannyboi05.itch.io/the-shelter",
+    "category": "University Project"
+  },
+  {
+    "title": "Working in a two-peson team - Ice Cube",
+    "description": "An unfinished, yet charming project made in one day from two people for the GMTK Game Jam. ",
+    "images": ["Ice3.png"],
+    "tech": ["Unity", "C#"],
+    "platforms": ["windows"],
+    "link": "https://dannyboi05.itch.io/ice-cube-game",
+    "category": "Game Jam"
+  },
+  {
+    "title": "First Steps - Unity",
+    "description": "My High-school graduation project. My first real try creating something in Unity. Exploring audience reach, feedback, presentation.",
+    "images": ["Space1.png"],
+    "tech": ["Unity", "C#"],
+    "platforms": ["windows"],
+    "link": "https://dannyboi05.itch.io/the-shelter",
+    "category": "High-school Graduation Project"
   }
 ]

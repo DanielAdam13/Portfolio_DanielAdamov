@@ -18,10 +18,10 @@
     "category": "Learning the Vulkan API"
   },
   {
-    "title": "Group Project Game - The Last Conduit",
-    "description": "A project made in a group of 6 people. Strictest team-working environment I've worked in. Communication and problem solving were essential.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["C++", "Unreal Engine", "Perforce(P4)", "HackNPlan"],
+    "title": "Group Project: The Last Conduit",
+    "description": "Created in a group of 6 people. Strictest team-working environment I've worked in. Problem solving and communication were essential.",
+    "images": ["Conduit1.png"],
+    "tech": ["C++", "Unreal Engine", "Perforce(P4)"],
     "platforms": ["windows"],
     "link": "https://dannyboi05.itch.io/gp16thelastconduit",
     "category": "Group Project"
@@ -29,10 +29,19 @@
   {
     "title": "Cuphead Recreation",
     "description": "Constructing the architecture of a game with a LOT of sprites, animations, enemies and sounds as well as getting used to a new environment.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["C++", "GLTF parsing", "CMake"],
+    "images": ["Cuphead1.png"],
+    "tech": ["C++", "Custom Engine", "SDL"],
     "platforms": ["windows"],
     "link": "https://github.com/nbakh16/career-portfolio-template",
     "category": "Game Recreation on a custom engine"
+  },
+  {
+    "title": "Graphics Rasterizer + Ray Tracer",
+    "description": "A dual rendering project made using C++. Main goal was exploring the fundamentals behind rendering using SDL.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Graphics Fundamentals", "OBJ parsing", "SDL", "CMake"],
+    "platforms": ["windows"],
+    "link": "https://github.com/DanielAdam13/GP1_DualRasterizer",
+    "category": "First steps in Graphics Rendering"
   }
 ]
