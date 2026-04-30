@@ -1,35 +1,49 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Programming Languages",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "C++", "level": 3, "icon": "skill-icons:flutter-dark" },
+        { "name": "C#", "level": 3, "icon": "skill-icons:dart-dark" },
+        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" },
+        { "name": "Lua", "level": 1, "icon": "skill-icons:kotlin-dark" }
       ]
     },
     {
-      "title": "Frontend",
+      "title": "Game Engines",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "Unreal", "level": 2, "icon": "skill-icons:astro" },
+        { "name": "Unity", "level": 2, "icon": "skill-icons:html" }
       ]
     },
     {
-      "title": "Backend",
+      "title": "Graphics & Rendering",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "Vulkan", "level": 2, "icon": "skill-icons:fastapi" },
+        { "name": "DirectX 11", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "SDL", "level": 2, "icon": "skill-icons:python-dark" }
       ]
     },
     {
-      "title": "Database",
+      "title": "Art tools",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Blender", "level": 3, "icon": "skill-icons:sqlite" },
+        { "name": "Photoshop", "level": 2, "icon": "skill-icons:postgresql-dark" }
+      ]
+    },
+    {
+      "title": "Build systems & Version Control",
+      "skills": [
+        { "name": "CMake", "level": 3, "icon": "skill-icons:sqlite" },
+        { "name": "GitHub", "level": 2, "icon": "skill-icons:postgresql-dark" },
+        { "name": "Perforce", "level": 2, "icon": "skill-icons:postgresql-dark" }
+      ]
+    },
+    {
+      "title": "Other",
+      "skills": [
+        { "name": "Microsoft Office", "level": 3, "icon": "skill-icons:sqlite" },
+        { "name": "HackNPlan", "level": 2, "icon": "skill-icons:postgresql-dark" }
       ]
     }
   ]

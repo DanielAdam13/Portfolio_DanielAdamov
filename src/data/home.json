@@ -48,7 +48,7 @@
       "name": "Sketchfab",
       "url": "https://sketchfab.com/DanielAdamov",
       "icon": "mdi:email",
-      "showInContact": true
+      "showInContact": false
     }, 
     {
       "name": "Whatsapp",

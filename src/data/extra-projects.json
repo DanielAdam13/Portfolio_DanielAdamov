@@ -1,7 +1,7 @@
 [
   {
     "title": "Company Group Project - The Perfect Shift",
-    "description": "A group project created SPECIFICALLY for a company in a team of 10 people. ",
+    "description": "A group project created specifically for a company in a team of 10 people. Held meetings and visited the HQ of GemOne and TVH.",
     "images": ["Lifting2.png"],
     "tech": ["Unity", "C#"],
     "platforms": ["web", "windows"],
@@ -9,44 +9,44 @@
     "category": "Company Project"
   },
   {
+    "title": "Game AI Systems",
+    "description": "A project focused on implementing complex AI Systems in Unreal Engine 5. Including Flocking, Steering behaviors, Pathfinding.",
+    "images": ["GameAI1.png", "GameAI2.png", "GameAI3.png"],
+    "tech": ["Unreal Engine", "C++", "Research"],
+    "platforms": ["windows"],
+    "link": "https://github.com/DAE-GD-2025-2026/game-ai-project-DanielAdam13",
+    "category": "University Project"
+  },
+  {
     "title": "Solo Game Project - The Shelter",
-    "description": "Small atmospheric horror game made in the span of 1 month. Exploring the Unity Engine.",
-    "images": ["Shelter2.png"],
+    "description": "Small atmospheric horror game made in the span of one month. Focuses on gameplay programming as well as environment and atmosphere.",
+    "images": ["Shelter2.png", "Shelter1.png"],
     "tech": ["Unity", "C#"],
     "platforms": ["windows", "linux"],
     "link": "https://dannyboi05.itch.io/the-shelter",
     "category": "Game Jam"
   },
   {
+    "title": "3D Diorama - Amsterdam",
+    "description": "The best 3D project I've worked on. Made for an university assignment.",
+    "images": ["3D1.png"],
+    "tech": ["Blender", "Photoshop"],
+    "platforms": ["windows"],
+    "link": "https://sketchfab.com/3d-models/dae-rowhomes-amsterdam-e9f739ce058942368662de4f49230f89",
+    "category": "University Project"
+  },
+  {
     "title": "First C++ Game - Roguelike",
     "description": "My first real try in a custom C++ environment. Created for an assignment in the first year of Bachelor Studies in DAE - Game Development.",
-    "images": ["Roguelike1.png"],
+    "images": ["Roguelike2.png"],
     "tech": ["C++", "Custom Engine", "SDL"],
     "platforms": ["windows"],
-    "link": "https://dannyboi05.itch.io/the-shelter",
+    "link": "https://github.com/DanielAdam05/2WeekRoguelikeGame",
     "category": "University Project"
-  },
-  {
-    "title": "Game AI Systems",
-    "description": "A project focused on implementing complex AI Systems in Unreal Engine 5. Including Flocking, Steering behaviors, Pathfinding.",
-    "images": ["astro-01.webp"],
-    "tech": ["Unreal Engine", "C++", "Research"],
-    "platforms": ["windows"],
-    "link": "https://dannyboi05.itch.io/the-shelter",
-    "category": "University Project"
-  },
-  {
-    "title": "Working in a two-peson team - Ice Cube",
-    "description": "An unfinished, yet charming project made in one day from two people for the GMTK Game Jam. ",
-    "images": ["Ice3.png"],
-    "tech": ["Unity", "C#"],
-    "platforms": ["windows"],
-    "link": "https://dannyboi05.itch.io/ice-cube-game",
-    "category": "Game Jam"
   },
   {
     "title": "First Steps - Unity",
-    "description": "My High-school graduation project. My first real try creating something in Unity. Exploring audience reach, feedback, presentation.",
+    "description": "My High-school graduation project, being my first real try creating a full-fledged game in Unity. Exploring audience reach, feedback, presentation.",
     "images": ["Space1.png"],
     "tech": ["Unity", "C#"],
     "platforms": ["windows"],

@@ -1,26 +1,26 @@
 [
   {
     "title": "Game Engine",
-    "description": "A fully self-made, general purpose 2D Game Engine AND a game made on it. Exploring best practice C++ programming style and Patterns. ",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["C++", "SDL", "CMake" ],
+    "description": "A self-made, general purpose 2D Engine and the retro game Bomberman made on it. Exploring best practice C++ programming style and Patterns. ",
+    "images": ["Engine2.png", "Engine3.png"],
+    "tech": ["C++", "Custom Engine", "SDL", "CMake" ],
     "platforms": ["windows", "web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
+    "link": " https://danieladam13.github.io/Prog4-GameEngine-Bomberman/",
     "category": "Self-made Game Engine"
   },
   {
     "title": "Vulkan Renderer",
     "description": "A Vulkan Rendering project started from scratch. Focuses on lowest level Vulkan API functionality such as synchronization or command recording.",
-    "images": ["astro-02.jpeg", "#"],
+    "images": ["Vk3.png"],
     "tech": ["Vulkan API", "C++", "GLTF parsing", "CMake"],
     "platforms": ["windows"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "link": "https://github.com/Howest-DAE-GD/gp2-vulkan-renderer-DanielAdam13.git",
     "category": "Learning the Vulkan API"
   },
   {
     "title": "Group Project: The Last Conduit",
     "description": "Created in a group of 6 people. Strictest team-working environment I've worked in. Problem solving and communication were essential.",
-    "images": ["Conduit1.png"],
+    "images": ["Conduit1.png", "Conduit2.png"],
     "tech": ["C++", "Unreal Engine", "Perforce(P4)"],
     "platforms": ["windows"],
     "link": "https://dannyboi05.itch.io/gp16thelastconduit",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Cuphead Recreation",
-    "description": "Constructing the architecture of a game with a LOT of sprites, animations, enemies and sounds as well as getting used to a new environment.",
+    "description": "Biggest challenge was building the architecture behind a game with a LOT of sprites, animations, enemies and sounds + getting used to a new environment.",
     "images": ["Cuphead1.png"],
     "tech": ["C++", "Custom Engine", "SDL"],
     "platforms": ["windows"],
@@ -36,10 +36,10 @@
     "category": "Game Recreation on a custom engine"
   },
   {
-    "title": "Graphics Rasterizer + Ray Tracer",
-    "description": "A dual rendering project made using C++. Main goal was exploring the fundamentals behind rendering using SDL.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Graphics Fundamentals", "OBJ parsing", "SDL", "CMake"],
+    "title": "Graphics Rasterizer",
+    "description": "A dual rasterizer project made using SDL. Has a CPU and a GPU mode. Main goal was exploring the fundamentals behind rendering.",
+    "images": ["Dual1.png", "Ray1.png"],
+    "tech": [ "DirectX 11", "SDL", "OBJ parsing", "CMake"],
     "platforms": ["windows"],
     "link": "https://github.com/DanielAdam13/GP1_DualRasterizer",
     "category": "First steps in Graphics Rendering"
