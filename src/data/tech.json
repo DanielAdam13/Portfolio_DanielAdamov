@@ -3,10 +3,10 @@
     {
       "title": "Programming Languages",
       "skills": [
-        { "name": "C++", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "C#", "level": 3, "icon": "skill-icons:dart-dark" },
+        { "name": "C++", "level": 3, "icon": "skill-icons:cpp" },
+        { "name": "C#", "level": 3, "icon": "skill-icons:cs" },
         { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" },
-        { "name": "Lua", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "Lua", "level": 1, "icon": "skill-icons:lua-dark" }
       ]
     },
     {
@@ -19,24 +19,24 @@
     {
       "title": "Graphics & Rendering",
       "skills": [
-        { "name": "Vulkan", "level": 2, "icon": "skill-icons:fastapi" },
+        { "name": "Vulkan", "level": 2, "icon": "simple-icons:vulkan" },
         { "name": "DirectX 11", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "SDL", "level": 2, "icon": "skill-icons:python-dark" }
+        { "name": "SDL", "level": 2, "icon": "mdi:monitor" }
       ]
     },
     {
       "title": "Art tools",
       "skills": [
-        { "name": "Blender", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "Photoshop", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Blender", "level": 3, "icon": "skill-icons:blender-dark" },
+        { "name": "Photoshop", "level": 2, "icon": "skill-icons:photoshop" }
       ]
     },
     {
       "title": "Build systems & Version Control",
       "skills": [
-        { "name": "CMake", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "GitHub", "level": 2, "icon": "skill-icons:postgresql-dark" },
-        { "name": "Perforce", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "CMake", "level": 3, "icon": "simple-icons:cmake" },
+        { "name": "GitHub", "level": 2, "icon": "skill-icons:github-dark" },
+        { "name": "Perforce", "level": 2, "icon": "simple-icons:perforce" }
       ]
     },
     {

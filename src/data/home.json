@@ -41,13 +41,13 @@
     {
       "name": "Itch.io",
       "url": "https://dannyboi05.itch.io/",
-      "icon": "mdi:email",
+      "icon": "simple-icons:itchdotio",
       "showInContact": true
     },
     {
       "name": "Sketchfab",
       "url": "https://sketchfab.com/DanielAdamov",
-      "icon": "mdi:email",
+      "icon": "simple-icons:sketchfab",
       "showInContact": false
     }, 
     {

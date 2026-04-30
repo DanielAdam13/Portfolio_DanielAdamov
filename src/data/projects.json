@@ -21,7 +21,7 @@
     "title": "Group Project: The Last Conduit",
     "description": "Created in a group of 6 people. Strictest team-working environment I've worked in. Problem solving and communication were essential.",
     "images": ["Conduit1.png", "Conduit2.png"],
-    "tech": ["C++", "Unreal Engine", "Perforce(P4)"],
+    "tech": ["C++", "Unreal Engine 5", "Perforce(P4)"],
     "platforms": ["windows"],
     "link": "https://dannyboi05.itch.io/gp16thelastconduit",
     "category": "Group Project"

@@ -12,7 +12,7 @@
     "title": "Game AI Systems",
     "description": "A project focused on implementing complex AI Systems in Unreal Engine 5. Including Flocking, Steering behaviors, Pathfinding.",
     "images": ["GameAI1.png", "GameAI2.png", "GameAI3.png"],
-    "tech": ["Unreal Engine", "C++", "Research"],
+    "tech": ["Unreal Engine 5", "C++", "Research"],
     "platforms": ["windows"],
     "link": "https://github.com/DAE-GD-2025-2026/game-ai-project-DanielAdam13",
     "category": "University Project"
