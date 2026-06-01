@@ -8,7 +8,7 @@ import icon from 'astro-icon';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://danieladam13.github.io',
-  base: '/Portofolio_DanielAdamov',
+  base: '/Portfolio_DanielAdamov',
   build: {
     assets: 'assets'
   },
