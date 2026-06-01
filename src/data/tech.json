@@ -12,16 +12,16 @@
     {
       "title": "Game Engines",
       "skills": [
-        { "name": "Unreal", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "Unity", "level": 2, "icon": "skill-icons:html" }
+        { "name": "Unreal", "level": 2, "icon": "skill-icons:unrealengine" },
+        { "name": "Unity", "level": 2, "icon": "skill-icons:unity-dark" }
       ]
     },
     {
       "title": "Graphics & Rendering",
       "skills": [
-        { "name": "Vulkan", "level": 2, "icon": "simple-icons:vulkan" },
-        { "name": "DirectX 11", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "SDL", "level": 2, "icon": "mdi:monitor" }
+        { "name": "DirectX 11", "level": 2, "icon": "mdi:microsoft" },
+        { "name": "SDL", "level": 2, "icon": "devicon-plain:sdl" },
+        { "name": "Vulkan", "level": 2, "icon": "simple-icons:vulkan" }
       ]
     },
     {
@@ -36,14 +36,14 @@
       "skills": [
         { "name": "CMake", "level": 3, "icon": "simple-icons:cmake" },
         { "name": "GitHub", "level": 2, "icon": "skill-icons:github-dark" },
-        { "name": "Perforce", "level": 2, "icon": "simple-icons:perforce" }
+        { "name": "Perforce", "level": 2, "icon": "mdi:source-branch" }
       ]
     },
     {
       "title": "Other",
       "skills": [
-        { "name": "Microsoft Office", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "HackNPlan", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Microsoft Office", "level": 3, "icon": "mdi:microsoft-office" },
+        { "name": "HackNPlan", "level": 2, "icon": "mdi:clipboard-text-outline" }
       ]
     }
   ]

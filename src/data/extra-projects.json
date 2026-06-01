@@ -21,7 +21,7 @@
     "title": "Solo Game Project - The Shelter",
     "description": "Small atmospheric horror game made in the span of one month. Focuses on gameplay programming as well as environment and atmosphere.",
     "images": ["Shelter2.png", "Shelter1.png"],
-    "tech": ["Unity", "C#"],
+    "tech": ["Unity", "C#", "Photoshop"],
     "platforms": ["windows", "linux"],
     "link": "https://dannyboi05.itch.io/the-shelter",
     "category": "Game Jam"
@@ -48,7 +48,7 @@
     "title": "First Steps - Unity",
     "description": "My High-school graduation project, being my first real try creating a full-fledged game in Unity. Exploring audience reach, feedback, presentation.",
     "images": ["Space1.png"],
-    "tech": ["Unity", "C#"],
+    "tech": ["Unity", "C#", "Blender"],
     "platforms": ["windows"],
     "link": "https://dannyboi05.itch.io/the-shelter",
     "category": "High-school Graduation Project"

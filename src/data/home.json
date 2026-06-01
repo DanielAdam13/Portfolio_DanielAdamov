@@ -9,6 +9,12 @@
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
+      "name": "Email",
+      "url": "mailto:daniel.adamov052@gmail.com",
+      "icon": "mdi:email",
+      "showInContact": true
+    },
+    {
       "name": "GitHub",
       "url": "https://github.com/DanielAdam13",
       "icon": "mdi:github",
@@ -32,12 +38,6 @@
       "icon": "devicon-plain:behance",
       "showInContact": false
     },
-    {
-      "name": "Email",
-      "url": "mailto:daniel.adamov052@gmail.com",
-      "icon": "mdi:email",
-      "showInContact": true
-    }, 
     {
       "name": "Itch.io",
       "url": "https://dannyboi05.itch.io/",

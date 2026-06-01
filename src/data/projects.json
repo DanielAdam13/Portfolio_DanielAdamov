@@ -30,7 +30,7 @@
     "title": "Cuphead Recreation",
     "description": "Biggest challenge was building the architecture behind a game with a LOT of sprites, animations, enemies and sounds + getting used to a new environment.",
     "images": ["Cuphead1.png"],
-    "tech": ["C++", "Custom Engine", "SDL"],
+    "tech": ["C++", "Custom Engine", "Photoshop", "SDL"],
     "platforms": ["windows"],
     "link": "https://github.com/nbakh16/career-portfolio-template",
     "category": "Game Recreation on a custom engine"
