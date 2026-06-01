@@ -9,9 +9,11 @@ import icon from 'astro-icon';
 export default defineConfig({
   site: 'https://danieladam13.github.io',
   base: '/Portofolio_DanielAdamov',
+  build: {
+    assets: 'assets'
+  },
   vite: {
     plugins: [tailwindcss()]
   },
-
   integrations: [icon()]
 });
