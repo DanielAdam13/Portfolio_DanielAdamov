@@ -38,13 +38,6 @@
         { "name": "GitHub", "level": 2, "icon": "skill-icons:github-dark" },
         { "name": "Perforce", "level": 2, "icon": "mdi:source-branch" }
       ]
-    },
-    {
-      "title": "Other",
-      "skills": [
-        { "name": "Microsoft Office", "level": 3, "icon": "mdi:microsoft-office" },
-        { "name": "HackNPlan", "level": 2, "icon": "mdi:clipboard-text-outline" }
-      ]
     }
   ]
 }

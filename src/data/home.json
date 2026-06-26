@@ -1,12 +1,10 @@
 {
   "name": "Daniel Adamov",
   "photoUrl": "me.jpg",
-  "intro": "A student in Howest DAE Game Development. I enjoy being thrown hard tech-related problems while still needing to quench my thirst for creativity/game design. I love building the architecture behind a project as much as I enjoy the creative art of making games.",
+  "intro": "I'm a 20-year-old Game Development student at Howest DAE in Kortrijk, Belgium, with a background in high-level mathematics and a tendency to gravitate toward hard problems. My main focus is building games — solo or in a team — that are genuinely worth someone's time. I enjoy hard challenges no matter if they are technical or design-oriented. My second obsession is astrophysics, even if it's not yet realized.",
   "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "Portofolio_Daniel Adamov",
+  "webpageTitle": "Portofolio_DanielAdamov",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
-
-  "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
       "name": "Email",
@@ -27,22 +25,10 @@
       "showInContact": true
     },
     {
-      "name": "Leetcode",
-      "url": "#",
-      "icon": "devicon-plain:leetcode",
-      "showInContact": false
-    },
-    {
-      "name": "Behance",
-      "url": "#",
-      "icon": "devicon-plain:behance",
-      "showInContact": false
-    },
-    {
       "name": "Itch.io",
       "url": "https://dannyboi05.itch.io/",
       "icon": "simple-icons:itchdotio",
-      "showInContact": true
+      "showInContact": false
     },
     {
       "name": "Sketchfab",
@@ -52,9 +38,9 @@
     }, 
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/0 87 899 2190",
+      "url": "https://wa.me/359878992190",
       "icon": "mdi:whatsapp",
-      "showInContact": false
+      "showInContact": true
     },
     {
       "name": "Facebook",
@@ -70,7 +56,7 @@
     },
     {
       "name": "Instagram",
-      "url": "https://www.instagram.com/daniel.adamov.05/",
+      "url": "#",
       "icon": "mdi:instagram",
       "showInContact": false
     },
