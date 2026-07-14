@@ -50,6 +50,14 @@ import projectsData from '../data/projects.json';
   const initProjectReveal = () => {
     const header = document.querySelector('.project-header');
     const cards = document.querySelectorAll('.project-card');
+
+    cards.forEach((card, index) => {
+    if (index < 3) {
+      setTimeout(() => {
+        (card as HTMLElement).classList.add('reveal');
+      }, index * 150);
+    }
+  });
     
     const observer = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
@@ -83,7 +91,9 @@ import projectsData from '../data/projects.json';
     if (header) observer.observe(header);
     
     // Observe all cards
-    cards.forEach(card => observer.observe(card));
+    cards.forEach((card,index) => {
+      if(index >= 3) observer.observe(card)
+  });
   };
 
   window.addEventListener('load', initProjectReveal);
