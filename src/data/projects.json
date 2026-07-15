@@ -2,16 +2,16 @@
   {
     "title": "Game Engine",
     "description": "A self-made, general purpose 2D Engine and the retro game Bomberman made on it. Exploring best practice C++ programming style and Patterns. ",
-    "images": ["Engine2.png", "Engine3.png"],
+    "images": ["Prog1.png", "Prog2.png", "Prog3.png"],
     "tech": ["C++", "Custom Engine", "SDL", "CMake" ],
     "platforms": ["windows", "web"],
-    "link": " https://danieladam13.github.io/Prog4-GameEngine-Bomberman/",
+    "link": " https://github.com/DanielAdam13/Prog4-GameEngine-Bomberman",
     "category": "Self-made Game Engine"
   },
   {
     "title": "Vulkan Renderer",
     "description": "A Vulkan Rendering project started from scratch. Focuses on lowest level Vulkan API functionality such as synchronization or command recording.",
-    "images": ["Vk3.png"],
+    "images": ["Vk1.png", "Vk2.png", "Vk3.png"],
     "tech": ["Vulkan API", "C++", "GLTF parsing", "CMake"],
     "platforms": ["windows"],
     "link": "https://github.com/Howest-DAE-GD/gp2-vulkan-renderer-DanielAdam13.git",
@@ -20,7 +20,7 @@
   {
     "title": "Group Project: The Last Conduit",
     "description": "Created in a group of 6 people. Strictest team-working environment I've worked in. Problem solving and communication were essential.",
-    "images": ["Conduit1.png", "Conduit2.png"],
+    "images": ["Conduit1.jpg", "Conduit2.jpg", "Conduit3.jpg"],
     "tech": ["C++", "Unreal Engine 5", "Perforce(P4)"],
     "platforms": ["windows"],
     "link": "https://dannyboi05.itch.io/gp16thelastconduit",
@@ -28,11 +28,11 @@
   },
   {
     "title": "Cuphead Recreation",
-    "description": "Biggest challenge was building the architecture behind a game with a LOT of sprites, animations, enemies and sounds + getting used to a new environment.",
-    "images": ["Cuphead1.png"],
+    "description": "Building the architecture behind a game with a LOT of sprites, animations, enemies and sounds, getting used to a new environment.",
+    "images": ["Cuphead1.png", "Cuphead2.png", "Cuphead3.png"],
     "tech": ["C++", "Custom Engine", "Photoshop", "SDL"],
     "platforms": ["windows"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "link": "https://github.com/DanielAdam13/CupheadRecreation",
     "category": "Game Recreation on a custom engine"
   },
   {
