@@ -16,7 +16,7 @@ import localData from '../data/home.json';
         </p>
       </div>
 
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 text-center">
+      <div class="flex flex-wrap justify-center gap-6 text-center">
         {localData.socials
         .filter((social) => social.showInContact && social.url && social.url !== "#" && social.url !== "")
         .map((social) => (
@@ -24,7 +24,7 @@ import localData from '../data/home.json';
           <a 
             href={social.url} 
             target="_blank" 
-            class="contact-card opacity-0 group p-8 bg-accent/5 border border-accent/10 rounded-2xl hover:border-accent/40 hover:bg-accent/10 transition-all duration-300"
+            class="contact-card opacity-0 group p-8 bg-accent/5 border border-accent/10 rounded-2xl hover:border-accent/40 hover:bg-accent/10 transition-all duration-300 w-full sm:w-64"
           >
             <Icon 
               name={social.icon} 
