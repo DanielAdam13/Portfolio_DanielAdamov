@@ -15,7 +15,7 @@
     "tech": ["Vulkan API", "C++", "GLTF parsing", "CMake"],
     "platforms": ["windows"],
     "link": "https://github.com/Howest-DAE-GD/gp2-vulkan-renderer-DanielAdam13.git",
-    "category": "Learning the Vulkan API"
+    "category": "Self-made Rendering Engine"
   },
   {
     "title": "Group Project: The Last Conduit",
@@ -24,7 +24,7 @@
     "tech": ["C++", "Unreal Engine 5", "Perforce(P4)"],
     "platforms": ["windows"],
     "link": "https://dannyboi05.itch.io/gp16thelastconduit",
-    "category": "Group Project"
+    "category": "Group Project on Unreal Engine 5"
   },
   {
     "title": "Cuphead Recreation",
