@@ -6,11 +6,11 @@
     "tech": ["Unity", "C#"],
     "platforms": ["web", "windows"],
     "link": "https://dannyboi05.itch.io/the-perfect-shift",
-    "category": "Company Project"
+    "category": "Company Product"
   },
   {
     "title": "Game AI Systems",
-    "description": "A project focused on implementing complex AI Systems in Unreal Engine 5. Including Flocking, Steering behaviors, Pathfinding.",
+    "description": "A project focused on implementing different AI Systems in Unreal Engine 5. Including Steering behaviors, Pathfinding, FSM, Behavior Trees.",
     "images": ["GameAI1.png", "GameAI2.png", "GameAI3.png"],
     "tech": ["Unreal Engine 5", "C++", "Research"],
     "platforms": ["windows"],
@@ -27,8 +27,17 @@
     "category": "Game Jam"
   },
   {
+    "title": "Algorithm Research",
+    "description": "A research on Jump Point Search - alternative to A* for pathfinding. Made entirely on my custom engine with needed patterns and technology.",
+    "images": ["JPS1.png", "JPS2.png"],
+    "tech": ["Research", "C++", "Custom Engine", "SDL"],
+    "platforms": ["windows"],
+    "link": "https://github.com/DAE-GD-2025-2026/gameai-research-project-DanielAdam13",
+    "category": "Research"
+  },
+  {
     "title": "3D Diorama - Amsterdam",
-    "description": "The best 3D project I've worked on. Made for an university assignment.",
+    "description": "The highest-effort 3D project I've worked on. Made for a university assignment.",
     "images": ["3D1.png"],
     "tech": ["Blender", "Photoshop"],
     "platforms": ["windows"],
@@ -36,21 +45,12 @@
     "category": "University Project"
   },
   {
-    "title": "First C++ Game - Roguelike",
-    "description": "My first real try in a custom C++ environment. Created for an assignment in the first year of Bachelor Studies in DAE - Game Development.",
-    "images": ["Roguelike2.png"],
-    "tech": ["C++", "Custom Engine", "SDL"],
-    "platforms": ["windows"],
-    "link": "https://github.com/DanielAdam05/2WeekRoguelikeGame",
-    "category": "University Project"
-  },
-  {
     "title": "First Steps - Unity",
     "description": "My High-school graduation project, being my first real try creating a full-fledged game in Unity. Exploring audience reach, feedback, presentation.",
-    "images": ["Space1.png"],
+    "images": ["Space1.png", "Space2.png", "Space3.png"],
     "tech": ["Unity", "C#", "Blender"],
     "platforms": ["windows"],
-    "link": "https://dannyboi05.itch.io/the-shelter",
+    "link": "https://dannyboi05.itch.io/spacesimulator",
     "category": "High-school Graduation Project"
   }
 ]
