@@ -11,8 +11,6 @@ const isSlider = project.images.length > 1;
   target="_blank"
   rel="noopener noreferrer"
   class="aspect-video overflow-hidden relative bg-background/50 block cursor-pointer">
-
-    <div class="absolute inset-0 bg-accent/10 group-hover:bg-transparent transition-colors z-10 pointer-events-none"></div>
     
     <div class={`w-full h-full relative ${isSlider ? 'image-slider' : ''}`}>
       {project.images.map((img: string, index: number) => (
