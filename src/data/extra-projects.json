@@ -2,7 +2,7 @@
   {
     "title": "Company Group Project - The Perfect Shift",
     "description": "A group project created specifically for a company in a team of 10 people. Held meetings and visited the HQ of GemOne and TVH.",
-    "images": ["Lifting2.png"],
+    "images": ["Lifting2.webp"],
     "tech": ["Unity", "C#"],
     "platforms": ["web", "windows"],
     "link": "https://dannyboi05.itch.io/the-perfect-shift",
@@ -11,7 +11,7 @@
   {
     "title": "Game AI Systems",
     "description": "A project focused on implementing different AI Systems in Unreal Engine 5. Including Steering behaviors, Pathfinding, FSM, Behavior Trees.",
-    "images": ["GameAI1.png", "GameAI2.png", "GameAI3.png"],
+    "images": ["GameAI1.webp", "GameAI2.webp", "GameAI3.webp"],
     "tech": ["Unreal Engine 5", "C++", "Research"],
     "platforms": ["windows"],
     "link": "https://github.com/DAE-GD-2025-2026/game-ai-project-DanielAdam13",
@@ -20,7 +20,7 @@
   {
     "title": "Solo Game Project - The Shelter",
     "description": "Small atmospheric horror game made in the span of one month. Focuses on gameplay programming as well as environment and atmosphere.",
-    "images": ["Shelter2.png", "Shelter1.png"],
+    "images": ["Shelter2.webp", "Shelter1.webp"],
     "tech": ["Unity", "C#", "Photoshop"],
     "platforms": ["windows", "linux"],
     "link": "https://dannyboi05.itch.io/the-shelter",
@@ -29,7 +29,7 @@
   {
     "title": "Algorithm Research",
     "description": "A research on Jump Point Search - alternative to A* for pathfinding. Made entirely on my custom engine with needed patterns and technology.",
-    "images": ["JPS1.png", "JPS2.png"],
+    "images": ["JPS1.webp", "JPS2.webp"],
     "tech": ["Research", "C++", "Custom Engine", "SDL"],
     "platforms": ["windows"],
     "link": "https://github.com/DAE-GD-2025-2026/gameai-research-project-DanielAdam13",
@@ -38,7 +38,7 @@
   {
     "title": "3D Diorama - Amsterdam",
     "description": "The highest-effort 3D project I've worked on. Made for a university assignment.",
-    "images": ["3D1.png"],
+    "images": ["3D1.webp"],
     "tech": ["Blender", "Photoshop"],
     "platforms": ["windows"],
     "link": "https://sketchfab.com/3d-models/dae-rowhomes-amsterdam-e9f739ce058942368662de4f49230f89",
@@ -47,7 +47,7 @@
   {
     "title": "First Steps - Unity",
     "description": "My High-school graduation project, being my first real try creating a full-fledged game in Unity. Exploring audience reach, feedback, presentation.",
-    "images": ["Space1.png", "Space2.png", "Space3.png"],
+    "images": ["Space1.webp", "Space2.webp", "Space3.webp"],
     "tech": ["Unity", "C#", "Blender"],
     "platforms": ["windows"],
     "link": "https://dannyboi05.itch.io/spacesimulator",
