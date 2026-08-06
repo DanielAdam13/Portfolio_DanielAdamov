@@ -18,6 +18,15 @@
     "category": "University Project"
   },
   {
+    "title": "Graphics Rasterizer",
+    "description": "A dual rasterizer project made using SDL. Has a CPU and a GPU mode. Main goal was exploring the fundamentals behind rendering.",
+    "images": ["Dual1.webp", "Ray1.webp"],
+    "tech": [ "DirectX 11", "SDL", "OBJ parsing", "CMake"],
+    "platforms": ["windows"],
+    "link": "https://github.com/DanielAdam13/GP1_DualRasterizer",
+    "category": "First steps in Graphics Rendering"
+  },
+  {
     "title": "Solo Game Project - The Shelter",
     "description": "Small atmospheric horror game made in the span of one month. Focuses on gameplay programming as well as environment and atmosphere.",
     "images": ["Shelter2.webp", "Shelter1.webp"],
@@ -30,7 +39,7 @@
     "title": "Algorithm Research",
     "description": "A research on Jump Point Search - alternative to A* for pathfinding. Made entirely on my custom engine with needed patterns and technology.",
     "images": ["JPS1.webp", "JPS2.webp"],
-    "tech": ["Research", "C++", "Custom Engine", "SDL"],
+    "tech": ["JPS Research", "C++", "Custom Engine", "SDL"],
     "platforms": ["windows"],
     "link": "https://github.com/DAE-GD-2025-2026/gameai-research-project-DanielAdam13",
     "category": "Research"
