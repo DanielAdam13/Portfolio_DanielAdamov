@@ -31,9 +31,18 @@
     "description": "Small atmospheric horror game made in the span of one month. Focuses on gameplay programming as well as environment and atmosphere.",
     "images": ["Shelter2.webp", "Shelter1.webp"],
     "tech": ["Unity", "C#", "Photoshop"],
-    "platforms": ["windows", "linux"],
+    "platforms": ["windows"],
     "link": "https://dannyboi05.itch.io/the-shelter",
     "category": "Game Jam"
+  },
+  {
+    "title": "Lua Bindings with C++",
+    "description": "Linking a C++ Game Engine to a small abstract game created on Lua using SOL2.",
+    "images": ["LuaGame1.webp"],
+    "tech": ["Lua", "CMake", "SOL2", "C++"],
+    "platforms": ["windows", "linux"],
+    "link": "https://github.com/DanielAdam13/SE_LuaBindings_EXAM",
+    "category": "Research"
   },
   {
     "title": "Algorithm Research",

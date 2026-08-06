@@ -18,15 +18,6 @@
     "category": "Self-made Rendering Engine"
   },
   {
-    "title": "Group Project: The Last Conduit",
-    "description": "Created in a group of 6 people. Strictest team-working environment I've worked in. Problem solving and communication were essential.",
-    "images": ["Conduit1.webp", "Conduit2.webp", "Conduit3.webp"],
-    "tech": ["C++", "Unreal Engine 5", "Perforce(P4)"],
-    "platforms": ["windows"],
-    "link": "https://dannyboi05.itch.io/gp16thelastconduit",
-    "category": "Group Project on Unreal Engine 5"
-  },
-  {
     "title": "Cuphead Recreation",
     "description": "Building the architecture behind a game with a LOT of sprites, animations, enemies and sounds, getting used to a new environment.",
     "images": ["Cuphead1.webp", "Cuphead2.webp", "Cuphead3.webp"],
@@ -34,5 +25,14 @@
     "platforms": ["windows"],
     "link": "https://github.com/DanielAdam13/CupheadRecreation",
     "category": "Game Recreation on a custom engine"
+  },
+  {
+    "title": "Group Project: The Last Conduit",
+    "description": "Created in a group of 6 people. Strictest team-working environment I've worked in. Problem solving and communication were essential.",
+    "images": ["Conduit1.webp", "Conduit2.webp", "Conduit3.webp"],
+    "tech": ["C++", "Unreal Engine 5", "Perforce(P4)"],
+    "platforms": ["windows"],
+    "link": "https://dannyboi05.itch.io/gp16thelastconduit",
+    "category": "Group Project on Unreal Engine 5"
   }
 ]
