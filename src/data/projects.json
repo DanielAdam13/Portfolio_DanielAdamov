@@ -38,7 +38,7 @@
   {
     "title": "Unreal Project: Zombie Simulation",
     "description": "A simulation of the AI of a Survivor in a Zombie apocalypse made in Unreal Engine 5. Using provided techniques such as Behavior Trees.",
-    "images": ["Zombie1.webp", "Zombie2.webp", "Zombie3.webp"],
+    "images": ["Zombie1.webp", "Zombie3.webp"],
     "tech": ["Unreal Engine 5", "C++", "Behavior Trees"],
     "platforms": ["windows"],
     "link": "https://github.com/DAE-GD-2025-2026/gameai-zombie-DanielAdam13",
