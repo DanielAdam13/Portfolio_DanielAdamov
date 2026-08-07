@@ -18,6 +18,15 @@
     "category": "Self-made Rendering Engine"
   },
   {
+    "title": "Group Project: The Last Conduit",
+    "description": "Created in a group of 6 people. Strictest team-working environment I've worked in. Problem solving and communication were essential.",
+    "images": ["Conduit1.webp", "Conduit2.webp", "Conduit3.webp"],
+    "tech": ["C++", "Unreal Engine 5", "Perforce(P4)"],
+    "platforms": ["windows"],
+    "link": "https://dannyboi05.itch.io/gp16thelastconduit",
+    "category": "Group Project on Unreal Engine 5"
+  },
+  {
     "title": "Cuphead Recreation",
     "description": "Building the architecture behind a game with a LOT of sprites, animations, enemies and sounds, getting used to a new environment.",
     "images": ["Cuphead1.webp", "Cuphead2.webp", "Cuphead3.webp"],
@@ -27,12 +36,12 @@
     "category": "Game Recreation on a custom engine"
   },
   {
-    "title": "Group Project: The Last Conduit",
-    "description": "Created in a group of 6 people. Strictest team-working environment I've worked in. Problem solving and communication were essential.",
-    "images": ["Conduit1.webp", "Conduit2.webp", "Conduit3.webp"],
-    "tech": ["C++", "Unreal Engine 5", "Perforce(P4)"],
+    "title": "Unreal Project: Zombie Simulation",
+    "description": "A simulation of the AI of a Survivor in a Zombie apocalypse made in Unreal Engine 5. Used provided techniques such as Behavior Trees.",
+    "images": ["Zombie1.webp", "Zombie2.webp"],
+    "tech": ["C++", "Unreal Engine 5"],
     "platforms": ["windows"],
-    "link": "https://dannyboi05.itch.io/gp16thelastconduit",
-    "category": "Group Project on Unreal Engine 5"
+    "link": "https://github.com/DAE-GD-2025-2026/gameai-zombie-DanielAdam13",
+    "category": "Project on Unreal Engine 5"
   }
 ]
