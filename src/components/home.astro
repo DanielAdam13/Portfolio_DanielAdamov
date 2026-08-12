@@ -37,6 +37,8 @@ if (isApiLive && BASE_URL) {
 }
 
 const { name, photoUrl, intro, introHtml, resumeUrl, socials } = data;
+
+const resumeHref = `${import.meta.env.BASE_URL}${resumeUrl.replace(/^\/+/, '')}`;
 ---
 
 <section id="home" class="pb-2 md:pb-4 flex flex-col items-center justify-center section-container md:pt-30 gap-1 min-h-[80vh] text-center">
@@ -71,7 +73,7 @@ const { name, photoUrl, intro, introHtml, resumeUrl, socials } = data;
 
   <div class="mt-8 mb-4 reveal-content" style="animation-delay: 400ms;">
     <a 
-      href={resumeUrl} 
+      href={resumeHref}
       target="_blank" 
       rel="noopener noreferrer"
       class="group relative inline-flex items-center justify-center px-10 py-2 bg-white/5 border border-white/10 rounded-full text-maintext font-body transition-all duration-300
