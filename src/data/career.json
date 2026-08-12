@@ -13,7 +13,7 @@
     "period": "Mar 2023 - Aug 2024",
     "type": "Hobby",
     "description": "Spent hundreds of hours prototyping, watching and reading online content. A participant and spectator of game jams.",
-    "skills": [ "Unity", "Blender" ]
+    "skills": [ "Unity", "C#", "Blender" ]
   },
   {
     "company": "at the software development company ScaleFocus",
@@ -29,6 +29,6 @@
     "period": "Sep 2016 - Jun 2024",
     "type": "Student",
     "description": "Focused mainly on math problem solving as well as an all-round attempt in the programming sphere. Most notably - C# OOP, Website Programming, Algorithms, Blender, SQL",
-    "skills": [ "Math", "Physics", "C#", "OOP" ]
+    "skills": [ "Math", "Physics", "C# .NET", "OOP" ]
   }
 ]

@@ -19,7 +19,7 @@
   },
   {
     "title": "Cuphead Recreation",
-    "description": "Building the architecture behind a game with a LOT of sprites, animations, enemies and sounds, getting used to a new environment.",
+    "description": "Building the architecture behind a game with a LOT of sprites, animations, enemies and sounds, getting used to a custom game engine.",
     "images": ["Cuphead1.webp", "Cuphead2.webp", "Cuphead3.webp"],
     "tech": ["C++", "Custom Engine", "Photoshop", "SDL"],
     "platforms": ["windows"],
