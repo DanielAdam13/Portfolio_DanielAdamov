@@ -2,7 +2,7 @@
   {
     "title": "Company Group Project - The Perfect Shift",
     "description": "A group project created specifically for a company in a team of 10 people. Held meetings and visited the HQ of GemOne and TVH.",
-    "images": ["Lifting2.webp"],
+    "images": ["Lift1.webp", "Lift2.webp", "Lift3.webp"],
     "tech": ["Unity", "C#"],
     "platforms": ["web", "windows"],
     "link": "https://dannyboi05.itch.io/the-perfect-shift",
