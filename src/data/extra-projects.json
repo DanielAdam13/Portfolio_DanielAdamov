@@ -54,7 +54,7 @@
     "category": "University Project"
   },
   {
-    "title": "Algorithm Research",
+    "title": "JPS Algorithm Research",
     "description": "A research on Jump Point Search - alternative to A* for pathfinding. Made entirely on my custom engine with needed patterns and technology.",
     "images": ["JPS1.webp", "JPS2.webp"],
     "tech": ["JPS Research", "C++", "Custom Engine", "SDL"],

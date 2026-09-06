@@ -22,8 +22,8 @@
         { "name": "Vulkan", "level": 2, "icon": "simple-icons:vulkan" },
         { "name": "SDL", "level": 2, "icon": "devicon-plain:sdl" },
         { "name": "DirectX 11", "level": 2, "icon": "mdi:microsoft" },
-        { "name": "HLSL", "level": 2, "icon": "vscode-icons:file-type-hlsl" },
-        { "name": "GLSL", "level": 2, "icon": "vscode-icons:file-type-glsl" }
+        { "name": "GLSL", "level": 2, "icon": "vscode-icons:file-type-glsl" },
+        { "name": "HLSL", "level": 2, "icon": "vscode-icons:file-type-hlsl" }
       ]
     },
     {
