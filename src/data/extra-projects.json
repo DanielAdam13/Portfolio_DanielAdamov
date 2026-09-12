@@ -46,7 +46,7 @@
   },
   {
     "title": "Game AI Systems",
-    "description": "A project focused on implementing different AI Systems in Unreal Engine 5. Includes Steering Behaviors, Pathfinding, FSM, Spacial Partitioning",
+    "description": "A project focused on implementing different AI Systems in Unreal Engine 5. Includes Steering Behaviors, Pathfinding, FSM, Spacial Partitioning.",
     "images": ["GameAI1.webp", "GameAI2.webp", "GameAI3.webp"],
     "tech": ["Unreal Engine 5", "C++", "Research"],
     "platforms": ["windows"],
@@ -64,7 +64,7 @@
   },
   {
     "title": "3D Diorama - Amsterdam",
-    "description": "The highest-effort 3D project I've worked on. Made for a university assignment.",
+    "description": "A model created purely on Blender focusing on modelling, UV unwrapping and seamless texturing. Textures are created on Photoshop.",
     "images": ["3D1.webp"],
     "tech": ["Blender", "Photoshop"],
     "platforms": ["windows"],
