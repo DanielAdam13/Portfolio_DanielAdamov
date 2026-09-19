@@ -45,7 +45,7 @@
     "category": "Research"
   },
   {
-    "title": "Game AI Systems",
+    "title": "Unreal Project: Game AI Systems",
     "description": "A project focused on implementing different AI Systems in Unreal Engine 5. Includes Steering Behaviors, Pathfinding, FSM, Spacial Partitioning.",
     "images": ["GameAI1.webp", "GameAI2.webp", "GameAI3.webp"],
     "tech": ["Unreal Engine 5", "C++", "Research"],
