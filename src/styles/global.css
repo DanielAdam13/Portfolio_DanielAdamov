@@ -145,6 +145,11 @@
   .launching {
     animation: launch 0.5s ease-in forwards;
   }
+
+  @keyframes twinkle {
+  0%, 100% { opacity: 0; transform: scale(1); }
+  50% { opacity: 0.8; transform: scale(1.2); }
+}
 }
 
 /* Custom Scrollbar for a cleaner look */
