@@ -2,7 +2,7 @@
   {
     "title": "Group Project - EGO: Soulwatchers",
     "description": "An ambituous work-in-progess group project for a passion game of the Art Director of Larian with the goal of creating an emotional experience for kids.",
-    "images": ["soul1.png", "soul2.png"],
+    "images": ["soul1.webp", "soul2.webp"],
     "tech": ["Unreal Engine 5", "C++", "GameAI"],
     "platforms": ["windows"],
     "link": "",
@@ -11,7 +11,7 @@
   {
     "title": "Bachelor Research - Gravitational Simulation",
     "description": "An accurate atrophysics simulation of gravitational interactions between stellar objects: Gravity Assists, Lagrange Points, Three-Body-Problem.",
-    "images": ["grav1.png", "grav2.png", "grav3.png"],
+    "images": ["grav1.webp", "grav2.webp", "grav3.webp"],
     "tech": ["C++", "Atrophyscis", "Math"],
     "platforms": ["windows"],
     "link": "",
