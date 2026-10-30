@@ -3,7 +3,7 @@
     "title": "Bachelor Research - Gravitational Simulation",
     "description": "An accurate atrophysics simulation of gravitational interactions between stellar objects: Gravity Assists, Lagrange Points, Three-Body-Problem.",
     "images": ["grav1.webp", "grav2.webp", "grav3.webp"],
-    "tech": ["C++", "Atrophyscis", "Math"],
+    "tech": ["Atrophyscis", "Simulation", "C++", "Math"],
     "platforms": ["windows"],
     "link": "https://github.com/DanielAdam13/GravityResearch",
     "category": "Research"
